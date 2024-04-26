@@ -26,4 +26,5 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![New](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_nBFMeQRftga67tNCA_1714105389781_completion_certificate.pdf)
+(![image](https://github.com/dhanushhvarma/JPMorgan-Chase-Virtual-Internship-master/assets/143319176/c97ca54c-bd67-4869-9d28-7952d11f6530)
+)
